@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "price": 25.99,
+    "title": "Strategy law and Organization Foundation",
+    "description": "Want to help people learn, grow and achieve more in life? Become an instructor",
+    "image": "https://cdn-dhpdl.nitrocdn.com/eXyNilVRxNvHoiBAzusmteQelMOxNXVN/assets/static/optimized/rev-5d4e490/wp/edubin/wp-content/uploads/2019/03/b021.jpg"
+  },
+  {
+    "id": 2,
+    "label": "Beginner",
+    "price": 28.22,
+    "title": "Strategy law and Organization Foundation",
+    "description": "Want to help people learn, grow and achieve more in life? Become an instructor",
+    "image": "https://demo.themewinter.com/wp/courselog/wp-content/uploads/2021/01/course_image7.jpg"
+  },
+  {
+    "id": 3,
+    "label": "Intermediate",
+    "price": 71.01,
+    "title": "Strategy law and Organization Foundation",
+    "description": "Want to help people learn, grow and achieve more in life? Become an instructor",
+    "image": "https://demo.themewinter.com/wp/courselog/wp-content/uploads/2021/01/course_image8.jpg"
+  },
+  {
+    "id": 4,
+    "label": "Intermediate",
+    "price": 78.45,
+    "title": "Strategy law and Organization Foundation",
+    "description": "Want to help people learn, grow and achieve more in life? Become an instructor",
+    "image": "https://demo.themewinter.com/wp/courselog/wp-content/uploads/2021/01/course_image10.jpg"
+  },
+  {
+    "id": 5,
+    "label": "Advenced",
+    "price": 29.95,
+    "title": "Strategy law and Organization Foundation",
+    "description": "Want to help people learn, grow and achieve more in life? Become an instructor",
+    "image": "https://demo.themewinter.com/wp/courselog/wp-content/uploads/2020/02/course_image6.jpg"
+  },
+  {
+    "id": 6,
+    "label": "Expert",
+    "price": 85.45,
+    "title": "Strategy law and Organization Foundation",
+    "description": "Want to help people learn, grow and achieve more in life? Become an instructor",
+    "image": "https://demo.themewinter.com/wp/courselog/wp-content/uploads/learn-press-profile/15/b97474f5ae87134a1c25696d31cdf229.png"
+  },
+  {
+    "id": 7,
+    "label": "Beginner",
+    "price": 79.99,
+    "title": "Strategy law and Organization Foundation",
+    "description": "Want to help people learn, grow and achieve more in life? Become an instructor",
+    "image": "https://cdn-dhpdl.nitrocdn.com/eXyNilVRxNvHoiBAzusmteQelMOxNXVN/assets/static/optimized/rev-5d4e490/wp/edubin/wp-content/uploads/2021/08/CU2436-1536x1024.jpg"
+  },
+  {
+    "id": 8,
+    "label": "Intermediate",
+    "price": 89.47,
+    "title": "Strategy law and Organization Foundation",
+    "description": "Want to help people learn, grow and achieve more in life? Become an instructor",
+    "image": "https://cdn-dhpdl.nitrocdn.com/eXyNilVRxNvHoiBAzusmteQelMOxNXVN/assets/static/optimized/rev-5d4e490/wp/edubin/wp-content/uploads/2021/08/CU543-1536x1024.jpg"
+  },
+  {
+    "id": 9,
+    "label": "Advenced",
+    "price": 35.89,
+    "title": "Strategy law and Organization Foundation",
+    "description": "Want to help people learn, grow and achieve more in life? Become an instructor",
+    "image": "https://demo.themewinter.com/wp/courselog/wp-content/uploads/2020/02/course_image5.jpg"
+  }
+]
