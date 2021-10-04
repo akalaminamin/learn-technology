@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Card } from "react-bootstrap";
-import "./SingleService.css"
+import "./SingleService.css";
 
 const SingleService = ({ service }) => {
   const { price, title, description, image } = service;
@@ -10,7 +10,12 @@ const SingleService = ({ service }) => {
         <Col>
           <Card className="card-content">
             <div className="card-img">
-              <img variant="top" alt="card" className="card-image" src={image} />
+              <img
+                variant="top"
+                alt="card"
+                className="card-image"
+                src={image}
+              />
             </div>
             <Card.Body className="card-body">
               <h5 className="price">${price}</h5>

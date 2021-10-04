@@ -53,15 +53,13 @@ h1 {
 }
 
 .nav-link {
-  font-weight: 600;
+  font-weight: 600 !important;
   font-size: 15px;
   line-height: 26px;
   color: #07294d !important;
   padding: 10px 20px !important;
 }
-.nav-link:hover {
-  color: rgb(4, 179, 4);
-}
+
 .services {
   margin: 100px 0px;
 }
