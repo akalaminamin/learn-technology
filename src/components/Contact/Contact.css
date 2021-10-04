@@ -1,0 +1,36 @@
+.contact{
+    padding: 40px 0px;
+    text-align: center;
+}
+.contact-content {
+    display: grid;
+    align-items: flex-start;
+    grid-template-columns: 2fr 3fr;
+    grid-gap: 20px;
+    justify-content: space-around;
+}
+.contact > span {
+    font-size: 16px;
+    font-weight: bold;
+    color: red;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+}
+.contact > h2{
+    font-size: 35px;
+    margin-bottom: 50px;
+
+}
+.input {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 8px;
+    border: 1px solid #00000038;
+    border-radius: 4px;
+    outline: none;
+}
+.submit-btn{
+    display: block;
+    text-align: right !important;
+}

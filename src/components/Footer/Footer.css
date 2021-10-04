@@ -1,0 +1,29 @@
+.footer{
+    background:black;
+    color: #fff;
+    padding: 20px 0px;
+    margin-top: 70px;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-logo{
+    width: 50px;
+    height: 50px;
+}
+.footer-item{
+    display: flex;
+}
+.footer-link{
+    text-decoration: none;
+    padding: 0px 15px;
+    font-weight: 600;
+    color: #fff;
+    transition: all ease .3s;
+}
+.footer-link:hover{
+    color: red;
+}
+

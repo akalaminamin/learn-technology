@@ -1,11 +1,11 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import { Navbar, Container, Nav } from "react-bootstrap";
-
+import "./Header.css"
 const Header = () => {
   return (
     <div>
-      <Navbar bg="light" variant="light">
+      <Navbar className="header">
         <Container>
           <NavLink className="navbar-brand" to="/">LMS</NavLink>
           <Nav className="ms-auto">

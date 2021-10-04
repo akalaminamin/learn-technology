@@ -10,14 +10,16 @@ const Home = () => {
     <>
       <div className="hero-area">
         <div className="container">
-          <h1>
+          <h1 className="text-center">
             Master the Skills to <br /> Drive your Career.
           </h1>
           <p>
             Lorem dummy text of the printing and <br /> typesetting industry
             lorem ipsum has been the industry's standard dummy text.
           </p>
-          <button className="hero-btn">Contact Us</button>
+          <NavLink to="/contact">
+            <button className="hero-btn">Contact Us</button>
+          </NavLink>
           <button className="hero-btn learn-btn">Learn More</button>
         </div>
       </div>
@@ -31,7 +33,7 @@ const Home = () => {
         </Row>
         <div className="btn-wrapper">
           <NavLink to="/services">
-            <button className="btn btn-success learn-btn">
+            <button className="same-btn">
               View All Services
             </button>
           </NavLink>

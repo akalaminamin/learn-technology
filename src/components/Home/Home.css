@@ -1,14 +1,18 @@
 .hero-area {
   width: 98.5vw;
   height: 97vh;
-  background-image: url("../../image/2.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
+  background: linear-gradient(0deg, rgb(34 34 34 / 42%), rgb(106 106 106 / 30%)),
+  url(../../image/2.jpg) no-repeat center center/cover;
   color: #fff;
   display: flex;
   align-items: center;
-  justify-content: flex-start;
+  justify-content:center;
+  text-align: center;
+  margin-top: -100px;
+  z-index: -1;
+}
+h1 {
+  text-align: center;
 }
 .services > h2 {
   text-align: center;

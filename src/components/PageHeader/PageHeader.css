@@ -1,0 +1,12 @@
+.page-header{
+    width: 98.5vw;
+    height: 35vh;
+    background: linear-gradient(to right,#f4f4fc,rgba(249,249,253,.2)),url("../../image/banner_image1.png") no-repeat center/cover;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    color: black;
+}
+.page-header h2{
+    font-size: 36px;
+}

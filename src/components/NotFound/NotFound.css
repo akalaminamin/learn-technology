@@ -1,0 +1,19 @@
+.error{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 98vw;
+    height: 76.8vh;
+}
+.error > h1{
+    font-size: 150px !important;
+    color: darkblue;
+}
+.error > h1 > span{
+    color: red;
+}
+.error > h2{
+    font-size: 35px;
+    text-transform: capitalize;
+}
