@@ -27,7 +27,7 @@ const Home = () => {
           <span>Select Services</span>
           <h2>Explore Popular Services</h2>
         <Row xs={1} md={3} className="g-4">
-          {services.slice(0, 3).map((service) => (
+          {services.slice(0, 6).map((service) => (
             <SingleService key={service.id} service={service}></SingleService>
           ))}
         </Row>

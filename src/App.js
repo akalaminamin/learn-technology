@@ -7,8 +7,7 @@ import Services from "./components/Services/Services";
 import Footer from "./components/Footer/Footer";
 import Contact from "./components/Contact/Contact";
 import NotFound from "./components/NotFound/NotFound";
-import 'bootstrap/dist/css/bootstrap.min.css';
-
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
